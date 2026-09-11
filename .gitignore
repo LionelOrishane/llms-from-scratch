@@ -345,7 +345,7 @@ cython_debug/
 #.idea/
 
 # vscode
-.vscode/
+
 
 # pixi environments
 .pixi
